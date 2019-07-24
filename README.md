@@ -1,6 +1,6 @@
 # MMjoy project English mirror[wip]
 
-The original repo of mmjoy_en has been archived and quite outdated in 2019. Heres an updated version as the newer infos are quite scattered in the forum.
+The original repo of mmjoy_en has been archived and quite outdated in 2019. Heres an updated version as the newer infos are scattered in the forum.
 
 This is an English translation of MMjoy2 introduction course.
 To start with MMJoy2 proceed to [the updated wiki](https://github.com/gordonhch/mmjoy_en/wiki).
