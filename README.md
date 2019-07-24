@@ -1,4 +1,9 @@
-# MMjoy project English mirror
+# MMjoy project English mirror[wip]
+
+The original repo of mmjoy_en has been archived and quite outdated. 
+
+Heres an updated
+
 I present you an English translation of MMjoy2 introduction course.
 To start with MMJoy2 proceed to [wiki](https://github.com/MMjoy/mmjoy_en/wiki)
 
